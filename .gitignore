@@ -1,0 +1,6 @@
+# Ignore configuration and secrets
+.env
+
+# Common Python files to ignore
+__pycache__/
+*.pyc
